@@ -1,0 +1,25 @@
+
+body{
+    background-color: goldenrod;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    background-color: white;
+    border: dotted ;
+    border-color: black;
+    font-size: 30px;
+    width: 600px;
+    padding: 20px;
+    margin-top: 250px;
+    margin-left: 350px;
+
+}
+
+@media screen and (min-width: 601px) {
+    div.example {
+      font-size: 80px;
+    }
+  }
